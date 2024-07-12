@@ -5,6 +5,12 @@
 npm install
 ```
 
+### Run Server
+
+```sh
+npm run server
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
