@@ -1,3 +1,8 @@
+# Vue Jobs Project
+
+This is my vue jobs listing project.
+
+<img src="public/screen.png" />
 
 ## Project Setup
 
